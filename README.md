@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehandu Rathnayake</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **BSc.(Horns)Software Engineering**
+- 🌱 I’m currently learning **BSc.(Horns)Software Engineering(Cinec)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
